@@ -1,0 +1,22 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top:.5rem;
+}
+
+.containerPerfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid white;    
+}   
+
+.titulo{
+    font-family: "Platypi", serif;
+    font-size: 2rem;
+}
+
+.containerInformations{
+    font-family: "Quicksand", sans-serif;
+}
